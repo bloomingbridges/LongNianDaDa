@@ -30,6 +30,7 @@ var t = 0;
 function setup() {
   mainCanvas = createCanvas(512, 512, WEBGL);
   longGFX = createGraphics(RES, RES);
+  pixelDensity(1);
   
   tS = width / (LEVELS - 0.5);
   hTS = tS * 0.5;
@@ -121,6 +122,7 @@ function drawLong() {
     if (debug) {
       scale(0.75, 0.75);
     }
+    noStroke();
     translate(RES / -2, RES / -2);
     drawFan();
   pop();
