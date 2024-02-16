@@ -10,6 +10,6 @@ Inspired by this beautiful paper lampshade at **Kooks Kochen**, a Korean restaur
 # TODOs
 - ~~Prevent (obvious) gaps between scales~~
 - ~~Clean up code and optimise~~
-- Publish on [openprocessing.org](https://openprocessing.org)
+- ~~Publish on [openprocessing.org](https://openprocessing.org/sketch/2180491)~~
 - Maybe make canvas size responsive?
 - Maybe opt for a shader instead..
