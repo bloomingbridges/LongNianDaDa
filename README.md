@@ -4,8 +4,8 @@ Procedural dragon animation to commemorate Lunar New Year 2024
 # TODOs
 - ~~Prevent (obvious) gaps between scales~~
 - ~~Clean up code and optimise~~
-- Make canvas size responsive
 - Publish on [openprocessing.org](https://openprocessing.org)
+- Maybe make canvas size responsive?
 - Maybe opt for a shader instead..
 
 ![Reference photograph](reference.jpg)
