@@ -1,11 +1,10 @@
 # 龍年龘龘 Happy Dragon Year 2024
 Procedural dragon animation to commemorate Lunar New Year 2024
 
-Inspired by this beautiful paper lampshade at **Kooks Kochen**, a Korean restaurant in Berlin - Photo taken by me circa October 2021
+Inspired by this beautiful paper lampshade at **Kooks Kochen**, a Korean restaurant in Berlin
+*Photo taken by me circa October 2021*
 
 ![Reference photograph](reference.jpg)
-
----
 
 # TODOs
 - ~~Prevent (obvious) gaps between scales~~
