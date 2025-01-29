@@ -1,4 +1,4 @@
-# 龍年龘龘 Happy Dragon Year 2024
+# 龍行龘龘 Happy Dragon Year 2024
 Procedural dragon animation to commemorate Lunar New Year 2024
 
 Inspired by this beautiful paper lampshade at **Kooks Kochen**, a Korean restaurant in Berlin:
